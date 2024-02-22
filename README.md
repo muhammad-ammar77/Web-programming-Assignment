@@ -6,3 +6,7 @@ password and confirm password not matched
 
 email does not contain @ 
 ![image](https://github.com/muhammad-ammar77/Web-programming-Assignment/assets/135406488/08d731bb-7e08-48a8-be62-00620498246a)
+
+password contains only numbers
+![image](https://github.com/muhammad-ammar77/Web-programming-Assignment/assets/135406488/a38fe033-071f-4795-8466-76902eb2ec79)
+
