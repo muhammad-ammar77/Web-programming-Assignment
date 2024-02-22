@@ -10,3 +10,6 @@ email does not contain @
 password contains only numbers
 ![image](https://github.com/muhammad-ammar77/Web-programming-Assignment/assets/135406488/a38fe033-071f-4795-8466-76902eb2ec79)
 
+age is between 18 and 100
+
+![image](https://github.com/muhammad-ammar77/Web-programming-Assignment/assets/135406488/db580236-f3d5-4c37-ae8e-c74e668f7b0d)
